@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm DEVI PRIYA</h1>
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif" />
+
 <h3 align="center">A passionate AIML Developer from India</h3>
+<center>
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif" />
+</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devipriya268&label=Profile%20views&color=0e75b6&style=flat" alt="devipriya268" /> </p>
 
