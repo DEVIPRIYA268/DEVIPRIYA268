@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **devi.e0320016@sret.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xfJqvXQEOGllu-X8ThxIxS0KHFEqqopY/view?usp=sharing](https://drive.google.com/file/d/1xfJqvXQEOGllu-X8ThxIxS0KHFEqqopY/view?usp=sharing)
-
 - ⚡ Fun fact **The world’s first programmer was a woman**
 
 <h3 align="left">Connect with me:</h3>
