@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **HTML,CSS,Python,Data Analysis and ML Models**
 
-- 📫 How to reach me **devi.e0320016@sret.edu.in**
+- 📫 How to reach me **devdha268@gmail.com**
 
 - ⚡ Fun fact **The world’s first programmer was a woman**
 
